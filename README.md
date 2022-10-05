@@ -1,8 +1,9 @@
-### A new visitor?
-you can refer readmes of
+### Author:
+### Grey Manuel
+
 - [LinkedList](LinkedList/)
     <br>
-    **Corner cases**
+    - Corner cases
     - empty LL
     - LL with one node
 - [Arrays](Arrays/)
@@ -12,7 +13,7 @@ you can refer readmes of
     - minimum no of elements in array?
     - does the array contain negative elements
     <br>
-    **Corner cases**
+    **Corner cases** <br>
     - would the code run properly if n=1?
 - [Matrix](Matrix/)
 - [Sorting](Sorting/)
