@@ -12,15 +12,13 @@
     - is the array sorted?
     - minimum no of elements in array?
     - does the array contain negative elements
-    <br>
-    **Corner cases** <br>
     - would the code run properly if n=1?
-- [Matrix](Matrix/)
-- [Sorting](Sorting/)
-- [Stack](Stack/)
-- [Queue](Queue/)
-- [Hashing](Hashing/)
-- [Dynamic Programming](DP_striver/)
+        - [Matrix](Matrix/)
+        - [Sorting](Sorting/)
+        - [Stack](Stack/)
+        - [Queue](Queue/)
+        - [Hashing](Hashing/)
+        - [Dynamic Programming](DP_striver/)
 
 ### What is this repo about?
 - Interview prep
