@@ -1,3 +1,6 @@
+**Author**
+**Grey Manuel**
+
 if(s[i] == 'someChar') is correct 
 if(s[i] == "someChar") is wrong 
 
